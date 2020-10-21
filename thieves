@@ -1,0 +1,150 @@
+<div id="abouts">
+
+It appeared without a warning. Even we were taken by surprise.
+
+My guild got the word to me quickly...Slow thieves are poor thieves, after all. I have no use for the empty-handed and arcane artefacts are usually trouble...But something is different.
+This obelisk is different. 
+
+No one knows what it's worth, they said.
+No one knows who it belongs to. No one knows what it's for. 
+The fate of the world could be at stake. Everyone will want it... 
+
+But we will get it first.<br><br>
+
+Edit this text however you want! This is your about me section =)
+</div>
+<br><br><br><style>
+#ban, hr, .sidebar, #nst, .user, .bb, .brand-mamabar, #userneohome, #superfooter, #userneopets .contentModuleHeaderAlt, img.footerNifty, .footerForm, #footer table, #habitarium {
+	display: none;
+}
+P, body, td, table {
+	font: 15px georgia !important;
+	font-weight: normal;
+	color: #171d33;
+	font-variant: small-caps !important;
+}
+table, table td {
+	border: 0px !important;
+}
+body {
+	background: #000000 url("http://www.sunnyneo.com/userlookups/UL_thieves_bg.png") fixed;
+}
+A:link, A:visited, A:active {
+	font: 15px georgia;
+	font-weight: bold;
+	color: #002e31;
+	font-variant: small-caps !important;
+}
+A:hover {
+	font: 15px georgia;
+	font-weight: bold;
+	color: #005559;
+	cursor: crosshair;
+	font-variant: small-caps !important;
+}
+#header a:link {
+	cursor: default;
+}
+#userneopets {
+	top: -470px;
+	position: absolute;
+	width: 960px !important;
+	height: 200px !important;
+	display: block;
+}
+#userneopets .medText {
+	color: #c8d8de;
+	font-variant: small-caps !important;
+}
+#header {
+	width: 974px;
+	height: 1212px;
+	background: transparent url("http://www.sunnyneo.com/userlookups/UL_thieves_top.jpg") top center no-repeat;
+	border: none;
+	top: 0px;
+	position: relative;
+	padding-bottom: 50px;
+}
+#footer {
+	background: transparent url("http://www.sunnyneo.com/userlookups/UL_thieves_bottom.png") top center no-repeat;
+	height: 517px;
+	width: 974px;
+}
+#abouts {
+	width: 905px;
+	margin-top: -200px;
+	height: 190px;
+	overflow: auto;
+}
+#template_nav {
+	margin-left: -160px;
+	margin-top: 585px;
+}
+#template_nav img {
+	visibility: hidden;
+}
+li.nav_image {
+	padding-left: 25px;
+	cursor: crosshair !important;
+}
+#main {
+	background: #002e31 url("http://www.sunnyneo.com/userlookups/UL_thieves_grass.png") 0px 1220px;
+	border-left: 2px solid #c8d8de;
+	border-right: 2px solid #c8d8de;
+	width: 974px;
+	padding: 0px;
+	margin-top: 0px;
+}
+#content {
+	width: 100%;
+	padding: 0px;
+	position: relative;
+	top: -100px;
+}
+.contentModuleContent img {
+	border: #331723 solid 1px;
+}
+.contentModuleHeader, .contentModuleHeaderAlt {
+	font: bold 18px georgia !important;
+	letter-spacing: 2px;
+	color: #c8d8de !important;
+	text-align: center;
+	font-variant: small-caps !important;
+	background: #002e31;
+}
+#usershop .contentModuleHeaderAlt {
+	letter-spacing: 0px;
+}
+.contentModuleContent {
+	background: transparent;
+}
+.contentModule {
+	background: transparent url("http://www.sunnyneo.com/userlookups/UL_thieves_white.png");
+}
+.content div a img, .content div b {
+	visibility: hidden;
+}
+.contentModule div a img, .contentModule div b, #abouts b, #abouts a img {
+	visibility: visible;
+}
+ul.dropdown {
+	border: 1px solid #1a203a;
+	background: transparent url("http://www.sunnyneo.com/userlookups/UL_thieves_white.png");
+	cursor: crosshair !important;
+}
+.dropdown li a {
+	color: #1a203a !important;
+	font-weight: normal;
+	cursor: crosshair !important;
+}
+.dropdown li a:hover {
+	color: #005559 !important;
+	cursor: crosshair !important;
+}
+.contentModule div a img, .contentModule div b {
+	visibility: visible !important;
+}
+#usertrophies .contentModuleContent {
+	letter-spacing: -1.5px;
+}
+</style>
