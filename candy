@@ -1,0 +1,187 @@
+<style>
+#ban, hr, .sidebar, #nst, .user, .bb, .brand-mamabar, #userneohome, #superfooter, #userneopets #footer, #habitarium, #ncmall, #footer {
+	display: none;
+}
+.content div a img, .content div b {
+	visibility: hidden;
+}
+#userinfo .medText table table img, .contentModule div a img, .contentModule div b, #abouts b, #abouts a img {
+	visibility: visible;
+}
+.contentModule div a img, .contentModule div b {
+	visibility: visible !important;
+}
+#header img {
+	width: 0px;
+}
+#template_nav {
+	margin-top: 575px;
+	margin-left: 0px;
+}
+#template_nav img {
+	visibility: hidden;
+	width: 109px;
+}
+P, body, td, table {
+	font: 11px verdana !important;
+	font-weight: normal;
+	color: #54b997;
+}
+table, table td {
+	border: 0px !important;
+}
+body {
+	background: #a54848 url("http://www.sunnyneo.com/userlookups/UL_jellybeans_bg.gif") top left;
+}
+A:link, A:visited, A:active {
+	font-weight: bold;
+	color: #227a5b;
+}
+A:hover {
+	font-weight: bold;
+	color: #59afde;
+}
+#usercollections a:link, #usercollections a:active, #usercollections avitsited {
+	color: #e35fa9;
+}
+#usercollections a:hover {
+	color: #ee3efc;
+}
+#userneopets .medText, #userneopets .medText b, #usercollections .medText {
+	color: #e35fa9 !important;
+}
+#header {
+	position: absolute;
+	width: 990px;
+	height: 668px;
+	margin-top: -668px;
+	background: transparent url("http://www.sunnyneo.com/userlookups/UL_jellybeans_top.jpg") top center no-repeat;
+	border: 0px;
+	margin-left: -5px;
+}
+#main {
+	background: transparent url("http://www.sunnyneo.com/userlookups/UL_jellybeans_body.jpg") top center no-repeat;
+	border: none;
+	width: 990px;
+	height: 1650px;
+	padding: 0px;
+	margin-top: 668px;
+}
+#main, #header {
+	border-left: 5px solid #ef4bcc;
+	border-right: 5px solid #ef4bcc;
+}
+#content {
+	width: 100%;
+	padding: 0px;
+	position: absolute;
+}
+#userneopets {
+	top: -35px;
+	position: relative;
+	width: 864px !important;
+	height: 245px !important;
+	display: block;
+	margin-left: 62px;
+}
+#usertrophies {
+	position: absolute;
+	display: block;
+	top: 1103px;
+	left: 50px;
+	width: 892px;
+	height: 370px !important;
+	overflow: auto;
+}
+#userinfo {
+	position: absolute;
+	top: 370px;
+	left: 525px;
+	width: 350px;
+	height: 250px !important;
+}
+#usershop {
+	position: absolute;
+	top: 710px;
+	left: 370px;
+}
+#usercollections {
+	position: absolute;
+	top: 690px;
+	left: 60px;
+}
+#usercollections td {
+	padding: 0px !important;
+}
+#usercollections td.medText {
+	line-height: 14px !important;
+}
+#usercollections td.medText {
+	padding-top: 10px !important;
+}
+#usercollections img, #userneopets img {
+	border: 3px solid #e35fa9;
+}
+#usershop img, #userinfo img, #usertrophies img {
+	border: 3px solid #54b997;
+}
+#abouts {
+	position: absolute;
+	top: -280px;
+	left: 75px;
+	width: 840px;
+	height: 185px;
+	overflow: auto;
+	font: bold italic 14px georgia;
+	color: #983275;
+	text-align: justify;
+	padding-right: 5px;
+}
+.contentModuleHeader, .contentModuleHeaderAlt {
+	font: italic bold 20px georgia !important;
+	color: #54b997;
+	background: none;
+	text-align: center;
+}
+#usercollections .contentModuleHeaderAlt, #userneopets .contentModuleHeaderAlt {
+	color: #e35fa9;
+}
+.contentModuleContent {
+	background: transparent;
+}
+ul.dropdown {
+	border: 3px solid #ef4bcc;
+	background: #fbbcdc;
+	cursor: default !important;
+}
+.dropdown li a {
+	color: #ef4bcc !important;
+	font-weight: bold;
+	font: italic bold 14px georgia;
+}
+.dropdown li a:hover {
+	color: #ffffff !important;
+	cursor: pointer !important;
+}
+#bottom {
+	background: url("http://www.sunnyneo.com/userlookups/jellybeans_bottom.png") 0 0 repeat-x;
+	position: fixed;
+	width: 100%;
+	height: 150px;
+	bottom: 0px;
+	left: 0px;
+	z-index: 100;
+}
+.bx-controls {
+	display: none;
+}
+#userneopets img {
+	margin-bottom: -15px;
+}
+#bxlist li {
+	margin-right: 47px !important;
+}
+</style><div id="bottom"></div>
+<div id="abouts">This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. This is your about me section! Write whatever you want here. 
+</div>
+<br>
