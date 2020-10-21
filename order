@@ -1,0 +1,152 @@
+<div id="abouts">
+Oh, please.
+
+So I meant to make a few changes in the order. Those old pointy hats elected me, didn't they? Now we're going to do things a little differently.
+
+Neopia is full of dangerous magic...but magic is power. And power must be controlled by those who understand it...not left lying around for anyone to stumble upon.
+
+When the light appeared, I knew what it meant. It meant power was loose in Neopia. Oh the others like to argue with me. But they came around soon enough.
+
+Many will try to claim the obelisk. But only we have the magic necessary...
+
+to control it.<br><br>
+
+Edit this text however you want! This is your about me section =)
+</div>
+<br><br><br><style>
+#ban, hr, .sidebar, #nst, .user, .bb, .brand-mamabar, #userneohome, #superfooter, #userneopets .contentModuleHeaderAlt, img.footerNifty, .footerForm, #footer table {
+	display: none;
+}
+P, body, td, table {
+	font: 15px georgia !important;
+	font-weight: normal;
+	color: #66152f;
+}
+b {
+	font-style: italic;
+}
+table, table td {
+	border: 0px !important;
+}
+body {
+	background: #000000 url("http://www.sunnyneo.com/userlookups/UL_order_bg.png") fixed;
+}
+A:link, A:visited, A:active {
+	font: 15px georgia;
+	font-weight: bold;
+	color: #bc8597;
+}
+A:hover {
+	font: 15px georgia;
+	font-weight: bold;
+	color: #2e547c;
+	cursor: crosshair;
+}
+#header a:link {
+	cursor: default;
+}
+#userneopets {
+	top: -470px;
+	position: absolute;
+	width: 990px !important;
+	height: 200px !important;
+	display: block;
+}
+#userneopets .medText {
+	color: #e4cdd5;
+}
+#header {
+	width: 1000px;
+	height: 1212px;
+	background: transparent url("http://www.sunnyneo.com/userlookups/UL_order_top.jpg") top center no-repeat;
+	border: none;
+	top: 0px;
+	position: relative;
+	padding-bottom: 50px;
+}
+#footer {
+	background: transparent url("http://www.sunnyneo.com/userlookups/UL_order_bottom.jpg") top center no-repeat;
+	height: 409px;
+	width: 1000px;
+}
+#abouts {
+	width: 905px;
+	margin-top: -185px;
+	height: 175px;
+	overflow: auto;
+}
+#template_nav {
+	margin-left: -160px;
+	margin-top: 575px;
+}
+#template_nav img {
+	visibility: hidden;
+}
+li.nav_image {
+	padding-left: 25px;
+	cursor: crosshair !important;
+}
+#main {
+	background: #002e31 url("http://www.sunnyneo.com/userlookups/UL_order_bg.jpg");
+	border-left: 2px solid #000000;
+	border-right: 2px solid #000000;
+	width: 1000px;
+	padding: 0px;
+	margin-top: 0px;
+}
+#content {
+	width: 100%;
+	padding: 0px;
+	position: relative;
+	top: -100px;
+}
+#habitarium img {
+width: 150px;
+height: 80px;
+}
+.contentModuleContent img {
+	border: #66152f solid 1px;
+}
+.contentModuleHeader, .contentModuleHeaderAlt {
+	font: bold italic 20px georgia !important;
+	letter-spacing: 2px;
+	color: #66152f !important;
+	text-align: center;
+	background: transparent;
+}
+#usershop .contentModuleHeaderAlt, #habitarium .contentModuleHeaderAlt {
+	letter-spacing: 0px;
+}
+.contentModuleContent {
+	background: transparent;
+}
+.contentModule {
+	background: #b97e91 url("http://www.sunnyneo.com/userlookups/UL_order_modulebg.png") top center repeat-x;
+}
+.content div a img, .content div b {
+	visibility: hidden;
+}
+.contentModule div a img, .contentModule div b, #abouts b, #abouts a img {
+	visibility: visible;
+}
+ul.dropdown {
+	border: 1px solid #66152f;
+	background: #ffffff;
+	cursor: crosshair !important;
+}
+.dropdown li a {
+	color: #66152f !important;
+	font-weight: normal;
+	cursor: crosshair !important;
+}
+.dropdown li a:hover {
+	color: #bc8597 !important;
+	cursor: crosshair !important;
+}
+.contentModule div a img, .contentModule div b {
+	visibility: visible !important;
+}
+#usertrophies .contentModuleContent {
+	letter-spacing: -1.5px;
+}
+</style>
